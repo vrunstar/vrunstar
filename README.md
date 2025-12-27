@@ -54,12 +54,10 @@ I focus on data cleaning, exploratory data analysis (EDA), and learning machine 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/skyverom?theme=dark)
 
-
 ---
 
 ## Connect With Me
 
-- GitHub: [vrunstar](https://github.com/vrunstar)  
-- LinkedIn: Add link when available  
+- GitHub: [vrunstar](https://github.com/vrunstar)   
 - Twitter: [@varoooommmm](https://x.com/varoooommmm)  
 - Email: [varunshakya1794@gmail.com](mailto:varunshakya1794@gmail.com)

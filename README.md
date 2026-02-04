@@ -51,7 +51,8 @@ I focus on data cleaning, exploratory data analysis (EDA), and learning machine 
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/skyverom?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vrunstar?theme=dark)
+
 
 ---
 

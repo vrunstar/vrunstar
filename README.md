@@ -1,51 +1,52 @@
 # Hi, I'm Varun Shakya
 
-3rd Year CS Undergraduate | Python | SQL | Data Analysis | Machine Learning (beginner)
-
-I am a student interested in Python and data analysis.  
-I focus on data cleaning, exploratory data analysis (EDA), and learning machine learning fundamentals through practical projects.
+**Data Analyst / ML Enthusiast | Python, SQL | EDA, Feature Engineering, Model Tuning | Sports Analytics**
 
 ---
 
 ## About Me
 
 - 3rd Year CS Undergraduate  
-- Strong interest in Python, SQL, and data analysis  
-- Experienced in data cleaning and exploratory data analysis (EDA)  
-- Currently getting into machine learning  
-- Focused on learning by building projects  
+- Work with real-world datasets: data cleaning, EDA, and feature engineering  
+- Build regression and classification models with proper evaluation and tuning  
+- Develop data-driven apps using Streamlit and APIs  
+- Interested in sports analytics and data-driven insights  
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 
 ### Data Analysis
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235c7da2.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-65baea?logo=python&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Plotly-5b4ccc?logo=python&logoColor=fff)](#) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=000)](#)
 
-### Machine Learning (Beginner)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![XGBoost](https://img.shields.io/badge/XGBoost-%03ef62.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?logo=scipy&logoColor=%white)  <img src="https://img.shields.io/badge/-XGBoost-0068c7?style=flate&logoColor=white"/>
+
+### Other Libraries
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>  <img src="https://img.shields.io/badge/-  Reportlab  -F26207?style=flat&logoColor=white"/>  <img src="https://img.shields.io/badge/-  FastF1  -FF1801?style=flat&logoColor=white"/> 
 
 ### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Cleaning and preparing real-world datasets  
-- Performing EDA to extract insights  
-- Learning machine learning concepts and workflows  
+- Building end-to-end ML projects  
+- Improving model performance and tuning  
+- Developing interactive data applications  
+- Exploring sports analytics datasets  
 
 ---
 
 ## Goals
 
-- Build strong data analysis foundations  
-- Create end-to-end data and ML projects  
-- Prepare for internships and industry roles   
+- Strengthen applied machine learning skills  
+- Build production-ready data projects  
+- Prepare for internships and industry roles  
 
 ---
 
@@ -58,6 +59,8 @@ I focus on data cleaning, exploratory data analysis (EDA), and learning machine 
 
 ## Connect With Me
 
-- GitHub: [vrunstar](https://github.com/vrunstar)   
-- Twitter: [@varoooommmm](https://x.com/varoooommmm)  
-- Email: [varunshakya1794@gmail.com](mailto:varunshakya1794@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/varoooommmm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/vrunstar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunshakya1794@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varoooooom/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/vrunstar)
